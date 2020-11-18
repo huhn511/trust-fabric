@@ -1,0 +1,17 @@
+{
+  "name": "trust-fabric",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "h5",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "iota-identity-wasm-test": "0.0.13",
+    "lowdb": "^1.0.0"
+  }
+}
